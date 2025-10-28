@@ -295,4 +295,4 @@ def simple_algorithm(
         residuals,
         final_iteration,
         converged,
-    )
+)
