@@ -1,0 +1,3 @@
+[submodule "Overleaf_LSM_P2_Report"]
+	path = docs/Overleaf_LSM_P2_Report
+	url = git@github.com:philipnickel/LSM_P2_Report.git
